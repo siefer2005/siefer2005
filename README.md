@@ -1,16 +1,13 @@
 # 💫 Hi 👋, I'm Animesh Ansh Yadav
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Developer**
 
 Email Me 👉 ✉️ **animeshansh10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Ment Tech Lab
-- 🌱 **I’m currently learning: 
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 💬 **Ask me about: Collaboration, Tech Support
+- 📫 **How to reach me: animeshansh10@gmail.com
+- 😄 **Pronouns: Animesh 
+- ⚡ **Fun fact: I Love Tech and Tech Love Me
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/animesh.yadav10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-ansh-yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:animeshansh10@gmail.com) 

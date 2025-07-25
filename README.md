@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+
 
 # 💫 Hi 👋, I'm Animesh Ansh Yadav
 **A passionate Software Developer**

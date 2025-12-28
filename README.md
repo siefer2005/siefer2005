@@ -5,7 +5,6 @@
 
 Email Me 👉 ✉️ **animeshansh10@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: Ment Tech Lab
 - 💬 **Ask me about: Collaboration, Tech Support
 - 📫 **How to reach me: animeshansh10@gmail.com
 - 😄 **Pronouns: Animesh 
